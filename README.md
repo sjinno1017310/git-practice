@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 更新しました。  
-new-feature branchで更新
+no-fast-forward branchで更新
