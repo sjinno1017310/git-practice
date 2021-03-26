@@ -3,3 +3,4 @@
 更新しました。  
 rebase-practiceブランチで更新（rebase コンフリクト用）
 rebase pull用で更新
+stash練習用
